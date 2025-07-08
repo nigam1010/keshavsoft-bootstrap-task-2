@@ -131,7 +131,7 @@ Place this in your root so Vercel can serve `/about` and `/contact` properly.
 
 ## 📫 Contact
 
-📧 Email: [keshav@example.com](mailto:keshav@example.com)
+📧 Email: [karinigam03@gmail.com](mailto:karinigam03@gmail.com)
 
 ---
 
